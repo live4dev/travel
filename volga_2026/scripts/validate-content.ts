@@ -30,6 +30,7 @@ async function main(): Promise<void> {
   const mediaById = new Map(manifest.media.map((item) => [item.id, item]));
 
   if (!trip.title || !trip.subtitle || !trip.startDate || !trip.endDate) errors.push("Не заполнены основные сведения о поездке");
+  if (trip.routeNote) checkPrivateText("trip.routeNote", trip.routeNote);
   if (trip.startDate > trip.endDate) errors.push("Дата начала позже даты окончания");
   if (trip.status === "published" && days.length === 0) errors.push("Для публикации нужен хотя бы один день");
   if (trip.status !== "published" && days.length === 0) warnings.push("Telegram-экспорт ещё не импортирован: публикуется экран ожидания материалов");

@@ -6,7 +6,7 @@ import { JourneyMap } from "./map-controller";
 import type { DayRecord, MediaAsset, MediaManifest, RouteCollection, Trip } from "./types";
 
 const trip = tripData as Trip;
-const days = daysData as DayRecord[];
+const days = daysData as unknown as DayRecord[];
 const app = document.querySelector<HTMLDivElement>("#app")!;
 const loading = document.querySelector<HTMLElement>("#loading");
 
@@ -84,6 +84,7 @@ async function start(): Promise<void> {
           <h1>${escapeHtml(trip.title)}</h1>
           <p>${escapeHtml(trip.subtitle)}</p>
           <time>${escapeHtml(trip.dates)}</time>
+          ${trip.routeNote ? `<p class="story-header__note">${escapeHtml(trip.routeNote)}</p>` : ""}
         </header>
         ${days.length ? `
           <nav class="day-nav" aria-label="Дни путешествия">

@@ -1,0 +1,23 @@
+{
+  "source": "Telegram: Прожизнь Волга1 29.07-17.08",
+  "period": {
+    "from": "2026-07-29",
+    "to": "2026-08-17",
+    "timezone": "Europe/Moscow"
+  },
+  "importedAt": "2026-08-27",
+  "messagesReviewed": 1740,
+  "daysPublished": 20,
+  "privacy": {
+    "surnamesPublished": false,
+    "accountsPublished": false,
+    "phoneNumbersPublished": false,
+    "transportDetailsPublished": false
+  },
+  "media": {
+    "photoCandidatesIdentified": 59,
+    "telegramLocationMetadataAvailable": false,
+    "exifAuditStatus": "waiting-for-file-export",
+    "downloadStatus": "waiting-for-file-export"
+  }
+}

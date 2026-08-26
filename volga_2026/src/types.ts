@@ -9,6 +9,7 @@ export interface Trip {
   startDate: string;
   endDate: string;
   status: PublicationStatus;
+  routeNote?: string;
   mapCenter: [number, number];
   mapZoom: number;
 }

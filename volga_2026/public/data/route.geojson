@@ -1,4 +1,75 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "id": "arrival-to-base", "dayId": "2026-07-29", "name": "От станции к базе", "mode": "road", "accuracy": "approximate" },
+      "geometry": { "type": "LineString", "coordinates": [[49.5260862, 53.4774098], [49.5689451, 53.4551636]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "radial-to-spit", "dayId": "2026-07-30", "name": "Пробный выход к косе", "mode": "walk", "accuracy": "approximate" },
+      "geometry": { "type": "LineString", "coordinates": [[49.5689451, 53.4551636], [49.584, 53.453], [49.603, 53.451], [49.5689451, 53.4551636]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "base-to-first-camp", "dayId": "2026-08-03", "name": "К первой стоянке", "mode": "walk", "accuracy": "approximate" },
+      "geometry": { "type": "LineString", "coordinates": [[49.5689451, 53.4551636], [49.584, 53.453], [49.603, 53.451]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "spit-to-island", "dayId": "2026-08-04", "name": "Через Бахилову Поляну", "mode": "water", "accuracy": "approximate" },
+      "geometry": { "type": "LineString", "coordinates": [[49.603, 53.451], [49.66989, 53.43352], [49.73, 53.438], [49.79, 53.445]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "island-to-festivalny", "dayId": "2026-08-05", "name": "До острова Фестивального", "mode": "water", "accuracy": "approximate" },
+      "geometry": { "type": "LineString", "coordinates": [[49.79, 53.445], [49.85, 53.456], [49.9154475, 53.4651918]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "festivalny-to-golodny", "dayId": "2026-08-06", "name": "Финальный день сплава", "mode": "water", "accuracy": "approximate" },
+      "geometry": { "type": "LineString", "coordinates": [[49.9154475, 53.4651918], [49.98, 53.451], [50.04, 53.431], [50.1056488, 53.4108474], [50.073, 53.397]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "landing-to-right-bank-camp", "dayId": "2026-08-06", "name": "К пешей стоянке", "mode": "walk", "accuracy": "approximate" },
+      "geometry": { "type": "LineString", "coordinates": [[50.073, 53.397], [50.06, 53.4], [50.046, 53.405]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "stone-bowl-radial", "dayId": "2026-08-07", "name": "Радиальный выход к Каменной Чаше", "mode": "walk", "accuracy": "approximate" },
+      "geometry": { "type": "LineString", "coordinates": [[50.046, 53.405], [50.01, 53.411], [49.965, 53.414], [49.922376, 53.409508], [49.965, 53.414], [50.01, 53.411], [50.046, 53.405]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "shiryayevo-radial", "dayId": "2026-08-08", "name": "Радиальный выход в Ширяево", "mode": "walk", "accuracy": "approximate" },
+      "geometry": { "type": "LineString", "coordinates": [[50.046, 53.405], [50.032, 53.411], [50.019196, 53.416447], [50.032, 53.411], [50.046, 53.405]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "right-bank-to-gavrilova", "dayId": "2026-08-09", "name": "К Гавриловой Поляне", "mode": "walk", "accuracy": "approximate" },
+      "geometry": { "type": "LineString", "coordinates": [[50.046, 53.405], [50.072, 53.392], [50.097, 53.38], [50.1223099, 53.3654126]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "stone-lake-to-rozhdestveno", "dayId": "2026-08-11", "name": "К Рождествену", "mode": "walk", "accuracy": "approximate" },
+      "geometry": { "type": "LineString", "coordinates": [[50.1243026, 53.3359793], [50.108, 53.304], [50.083, 53.265], [50.0603068, 53.2303602]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "rozhdestveno-to-ferry", "dayId": "2026-08-12", "name": "К переправе", "mode": "walk", "accuracy": "approximate" },
+      "geometry": { "type": "LineString", "coordinates": [[50.0603068, 53.2303602], [50.053, 53.223], [50.045, 53.216]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "ferry-to-samara", "dayId": "2026-08-12", "name": "Переправа через Волгу", "mode": "water", "accuracy": "approximate" },
+      "geometry": { "type": "LineString", "coordinates": [[50.045, 53.216], [50.071, 53.212], [50.1014927, 53.1956255]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "samara-to-kazan", "dayId": "2026-08-13", "name": "Из Самары в Казань", "mode": "road", "accuracy": "approximate" },
+      "geometry": { "type": "LineString", "coordinates": [[50.1014927, 53.1956255], [50.18, 53.65], [50.27, 54.08], [49.83, 54.55], [49.4, 55.12], [49.1115022, 55.7946485]] }
+    }
+  ]
 }
