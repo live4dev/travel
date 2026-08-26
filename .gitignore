@@ -1,1 +1,5 @@
 .DS_Store
+imports/
+volga_2026/.work/
+volga_2026/node_modules/
+volga_2026/dist/

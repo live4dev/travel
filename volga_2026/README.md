@@ -1,0 +1,57 @@
+# Дети на Волге
+
+Статичная интерактивная история путешествия 29 июля — 17 августа 2026 года: карта смешанного маршрута, проверенные локации, дневные отчёты и фотографии.
+
+## Состояния публикации
+
+Поле `status` в `content/trip.json` управляет строгостью проверки:
+
+- `awaiting-export` — безопасный экран ожидания, когда Telegram-экспорт ещё не предоставлен;
+- `draft` — редакторская сборка с импортированными материалами;
+- `published` — строгая production-проверка требует дни, `alt`, медиа и корректные связи.
+
+## Импорт Telegram
+
+В Telegram Desktop экспортируйте чат в JSON вместе с фотографиями за 29.07.2026–17.08.2026 и распакуйте его в непубликуемый каталог:
+
+```text
+../imports/volga1_2026/result.json
+../imports/volga1_2026/photos/...
+```
+
+Затем выполните:
+
+```bash
+npm install
+npm run import
+```
+
+Можно передать другой JSON или каталог экспорта:
+
+```bash
+npm run import -- /absolute/path/to/result.json
+```
+
+Команда создаёт `.work/editorial-draft.json`, `.work/location-audit.json`, оптимизированные AVIF/WebP и `public/data/media-manifest.json`. Видео намеренно пропускаются. В отчёте отдельно считаются геолокации Telegram, EXIF GPS и EXIF-даты.
+
+`.work/` и исходный экспорт не попадают в Git. Производные изображения создаются без EXIF.
+
+## Редактура и маршрут
+
+1. По `.work/editorial-draft.json` заполните `content/days.json`, сохраняя только дни с содержательными материалами.
+2. В `content/media-overrides.json` задайте для опубликованных фото `dayId`, `order`, `alt`, `caption`; ненужные кадры отметьте `hidden: true`. Ключ — `photo-<id сообщения Telegram>`.
+3. Проверьте возможные фамилии из `.work/location-audit.json`, телефоны, аккаунты и видимый текст на самих кадрах.
+4. Повторите `npm run import`, чтобы применить overrides.
+5. Сохраните подтверждённые участки в `public/data/route.geojson`. Каждый LineString содержит `id`, `dayId`, `name`, `mode` (`water`, `road`, `walk`, `unknown`) и `accuracy` (`exact`, `verified`, `approximate`).
+6. Переведите статус в `published` и выполните `npm run build`.
+
+## Разработка
+
+```bash
+npm run dev
+npm test
+npm run typecheck
+npm run build
+```
+
+Карта использует Yandex Maps JavaScript API 3.0 и `VITE_YANDEX_MAPS_API_KEY`. Без ключа или сети автоматически показывается локальная SVG-схема маршрута.

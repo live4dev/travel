@@ -25,7 +25,9 @@ jobs:
         with:
           node-version: 24
           cache: npm
-          cache-dependency-path: altai_2026/package-lock.json
+          cache-dependency-path: |
+            altai_2026/package-lock.json
+            volga_2026/package-lock.json
 
       - name: Install dependencies
         working-directory: altai_2026
@@ -41,13 +43,30 @@ jobs:
           VITE_YANDEX_MAPS_API_KEY: ${{ secrets.YANDEX_MAPS_API_KEY }}
         run: npm run build
 
+      - name: Install Volga dependencies
+        working-directory: volga_2026
+        run: npm ci
+
+      - name: Test Volga story
+        working-directory: volga_2026
+        run: npm test
+
+      - name: Build Volga story
+        working-directory: volga_2026
+        env:
+          VITE_YANDEX_MAPS_API_KEY: ${{ secrets.YANDEX_MAPS_API_KEY }}
+        run: npm run build
+
       - name: Prepare Pages artifact
         run: |
-          mkdir -p _site/altai_2026
+          mkdir -p _site/altai_2026 _site/volga_2026
           cp index.html CNAME _site/
           cp -R altai_2026/dist/. _site/altai_2026/
+          cp -R volga_2026/dist/. _site/volga_2026/
           test -f _site/altai_2026/index.html
           test -d _site/altai_2026/assets
+          test -f _site/volga_2026/index.html
+          test -d _site/volga_2026/assets
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
