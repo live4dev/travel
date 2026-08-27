@@ -70,7 +70,10 @@ export class JourneyMap {
       this.map = new api.YMap(this.mapElement, {
         location: { center: this.trip.mapCenter, zoom: this.trip.mapZoom },
         behaviors: ["drag", "scrollZoom", "dblClick", "pinchZoom"],
-        mode: "auto",
+        // Keep one rendering pipeline throughout camera interactions. In auto
+        // mode Yandex Maps swaps raster and vector layers, which can leave part
+        // of a tall, responsive map with only its background after a pan/zoom.
+        mode: "raster",
         theme: "light",
         copyrightsPosition: "bottom right",
       });
