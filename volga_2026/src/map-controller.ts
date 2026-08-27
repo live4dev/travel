@@ -75,7 +75,9 @@ export class JourneyMap {
         copyrightsPosition: "bottom right",
       });
       this.map.addChild(new api.YMapDefaultSchemeLayer({}));
-      this.map.addChild(new api.YMapDefaultFeaturesLayer({ zIndex: 250 }));
+      // The scheme layer uses a higher default stacking level. Keep the
+      // feature/marker layer above it so routes and day markers stay visible.
+      this.map.addChild(new api.YMapDefaultFeaturesLayer({ zIndex: 1800 }));
 
       for (const feature of this.route.features) {
         const mapFeature = new api.YMapFeature({

@@ -225,10 +225,11 @@ a:focus-visible,
 .map-legend {
   position: absolute;
   z-index: 20;
-  bottom: var(--safe-bottom);
-  left: var(--safe-left);
+  top: var(--safe-top);
+  right: var(--safe-right);
   display: flex;
   flex-wrap: wrap;
+  justify-content: flex-end;
   gap: 7px;
   max-width: calc(100% - 40px);
 }
@@ -614,7 +615,7 @@ a:focus-visible,
   .story-header h1 { font-size: clamp(4.2rem, 15vw, 8rem); }
   .day-card { min-height: 82vh; }
   .map-message { right: 12px; bottom: 12px; }
-  .map-legend { bottom: 12px; left: 12px; }
+  .map-legend { top: 14px; right: 14px; }
 }
 
 @media (max-width: 640px) {
@@ -622,6 +623,13 @@ a:focus-visible,
   .brand { top: 14px; left: 14px; }
   .brand > i { width: 35px; height: 35px; }
   .brand b { font-size: 1rem; }
+  .map-legend {
+    top: auto;
+    right: auto;
+    bottom: 82px;
+    left: 14px;
+    justify-content: flex-start;
+  }
   .map-legend span { padding: 6px 8px; font-size: .6rem; }
   .map-legend span:nth-child(3) { display: none; }
   .map-message { max-width: 245px; font-size: .61rem; }
