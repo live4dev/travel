@@ -1,5 +1,6 @@
 .DS_Store
 imports/
+tg_volga_chat/
 volga_2026/.work/
 volga_2026/node_modules/
 volga_2026/dist/

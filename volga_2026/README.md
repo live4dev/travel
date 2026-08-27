@@ -45,7 +45,7 @@ npm run import -- /absolute/path/to/result.json
 ## Редактура и маршрут
 
 1. По `.work/editorial-draft.json` заполните `content/days.json`, сохраняя только дни с содержательными материалами.
-2. В `content/media-overrides.json` задайте для опубликованных фото `dayId`, `order`, `alt`, `caption`; ненужные кадры отметьте `hidden: true`. Ключ — `photo-<id сообщения Telegram>`.
+2. В `content/media-overrides.json` задайте для выбранных фото `published: true`, `dayId`, `order`, `alt`, `caption`. Ненужные кадры не добавляйте в список либо отметьте `hidden: true`. Ключ — `photo-<id сообщения Telegram>`.
 3. Проверьте возможные фамилии из `.work/location-audit.json`, телефоны, аккаунты и видимый текст на самих кадрах.
 4. Повторите `npm run import`, чтобы применить overrides.
 5. Сохраните подтверждённые участки в `public/data/route.geojson`. Каждый LineString содержит `id`, `dayId`, `name`, `mode` (`water`, `road`, `walk`, `unknown`) и `accuracy` (`exact`, `verified`, `approximate`).

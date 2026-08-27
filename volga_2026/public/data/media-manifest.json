@@ -1,4 +1,2310 @@
 {
-  "generatedAt": null,
-  "media": []
+  "generatedAt": "2026-08-27T08:15:35.172Z",
+  "media": [
+    {
+      "id": "photo-360",
+      "dayId": "2026-07-29",
+      "capturedAt": null,
+      "coordinates": null,
+      "alt": "Ребята идут по понтонному мосту к воде на фоне Волги",
+      "caption": "Первое купание и знакомство с Волгой.",
+      "width": 964,
+      "height": 1280,
+      "src": "./photos/photo-360-964.webp",
+      "variants": {
+        "avif": [
+          {
+            "width": 480,
+            "src": "./photos/photo-360-480.avif"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-360-960.avif"
+          },
+          {
+            "width": 964,
+            "src": "./photos/photo-360-964.avif"
+          }
+        ],
+        "webp": [
+          {
+            "width": 480,
+            "src": "./photos/photo-360-480.webp"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-360-960.webp"
+          },
+          {
+            "width": 964,
+            "src": "./photos/photo-360-964.webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-444",
+      "dayId": "2026-07-29",
+      "capturedAt": null,
+      "coordinates": null,
+      "alt": "Ребята играют в лапту на лесной площадке",
+      "caption": "Первая командная лапта.",
+      "width": 2560,
+      "height": 1920,
+      "src": "./photos/photo-444-1600.webp",
+      "variants": {
+        "avif": [
+          {
+            "width": 480,
+            "src": "./photos/photo-444-480.avif"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-444-960.avif"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-444-1600.avif"
+          }
+        ],
+        "webp": [
+          {
+            "width": 480,
+            "src": "./photos/photo-444-480.webp"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-444-960.webp"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-444-1600.webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-476",
+      "dayId": "2026-07-29",
+      "capturedAt": null,
+      "coordinates": null,
+      "alt": "Большая группа сидит кругом вокруг костра в лесу",
+      "caption": "Вечерний круг у костра.",
+      "width": 2560,
+      "height": 1920,
+      "src": "./photos/photo-476-1600.webp",
+      "variants": {
+        "avif": [
+          {
+            "width": 480,
+            "src": "./photos/photo-476-480.avif"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-476-960.avif"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-476-1600.avif"
+          }
+        ],
+        "webp": [
+          {
+            "width": 480,
+            "src": "./photos/photo-476-480.webp"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-476-960.webp"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-476-1600.webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-512",
+      "dayId": "2026-07-30",
+      "capturedAt": null,
+      "coordinates": null,
+      "alt": "Группа с рюкзаками собирается перед пробным выходом",
+      "caption": "Подготовка к первому радиальному выходу.",
+      "width": 2560,
+      "height": 1920,
+      "src": "./photos/photo-512-1600.webp",
+      "variants": {
+        "avif": [
+          {
+            "width": 480,
+            "src": "./photos/photo-512-480.avif"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-512-960.avif"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-512-1600.avif"
+          }
+        ],
+        "webp": [
+          {
+            "width": 480,
+            "src": "./photos/photo-512-480.webp"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-512-960.webp"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-512-1600.webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-518",
+      "dayId": "2026-07-30",
+      "capturedAt": null,
+      "coordinates": null,
+      "alt": "Ребята с рюкзаками идут колонной по лесной тропе",
+      "caption": "Пробный маршрут к песчаной косе.",
+      "width": 1920,
+      "height": 2560,
+      "src": "./photos/photo-518-1600.webp",
+      "variants": {
+        "avif": [
+          {
+            "width": 480,
+            "src": "./photos/photo-518-480.avif"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-518-960.avif"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-518-1600.avif"
+          }
+        ],
+        "webp": [
+          {
+            "width": 480,
+            "src": "./photos/photo-518-480.webp"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-518-960.webp"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-518-1600.webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-528",
+      "dayId": "2026-07-30",
+      "capturedAt": null,
+      "coordinates": null,
+      "alt": "Группа стоит на песчаном берегу Волги под большими облаками",
+      "caption": "Выход к Волге.",
+      "width": 1920,
+      "height": 2560,
+      "src": "./photos/photo-528-1600.webp",
+      "variants": {
+        "avif": [
+          {
+            "width": 480,
+            "src": "./photos/photo-528-480.avif"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-528-960.avif"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-528-1600.avif"
+          }
+        ],
+        "webp": [
+          {
+            "width": 480,
+            "src": "./photos/photo-528-480.webp"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-528-960.webp"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-528-1600.webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-668",
+      "dayId": "2026-07-31",
+      "capturedAt": null,
+      "coordinates": null,
+      "alt": "Ребята переносят авторские рисунки на походные футболки",
+      "caption": "Создание фирменных футболок.",
+      "width": 1920,
+      "height": 2560,
+      "src": "./photos/photo-668-1600.webp",
+      "variants": {
+        "avif": [
+          {
+            "width": 480,
+            "src": "./photos/photo-668-480.avif"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-668-960.avif"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-668-1600.avif"
+          }
+        ],
+        "webp": [
+          {
+            "width": 480,
+            "src": "./photos/photo-668-480.webp"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-668-960.webp"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-668-1600.webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-713",
+      "dayId": "2026-07-31",
+      "capturedAt": null,
+      "coordinates": null,
+      "alt": "Катамаран с ребятами в спасательных жилетах идёт по Волге",
+      "caption": "Первая полноценная тренировка на катамаранах.",
+      "width": 2560,
+      "height": 1920,
+      "src": "./photos/photo-713-1600.webp",
+      "variants": {
+        "avif": [
+          {
+            "width": 480,
+            "src": "./photos/photo-713-480.avif"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-713-960.avif"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-713-1600.avif"
+          }
+        ],
+        "webp": [
+          {
+            "width": 480,
+            "src": "./photos/photo-713-480.webp"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-713-960.webp"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-713-1600.webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-717",
+      "dayId": "2026-07-31",
+      "capturedAt": null,
+      "coordinates": null,
+      "alt": "Несколько катамаранов с участниками соединены вместе на воде",
+      "caption": "Тренировка движения общей связкой.",
+      "width": 1920,
+      "height": 2560,
+      "src": "./photos/photo-717-1600.webp",
+      "variants": {
+        "avif": [
+          {
+            "width": 480,
+            "src": "./photos/photo-717-480.avif"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-717-960.avif"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-717-1600.avif"
+          }
+        ],
+        "webp": [
+          {
+            "width": 480,
+            "src": "./photos/photo-717-480.webp"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-717-960.webp"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-717-1600.webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-858",
+      "dayId": "2026-08-01",
+      "capturedAt": null,
+      "coordinates": null,
+      "alt": "Участники выполняют практическое задание за большим столом",
+      "caption": "Практическая часть командного дня.",
+      "width": 2560,
+      "height": 1920,
+      "src": "./photos/photo-858-1600.webp",
+      "variants": {
+        "avif": [
+          {
+            "width": 480,
+            "src": "./photos/photo-858-480.avif"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-858-960.avif"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-858-1600.avif"
+          }
+        ],
+        "webp": [
+          {
+            "width": 480,
+            "src": "./photos/photo-858-480.webp"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-858-960.webp"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-858-1600.webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-875",
+      "dayId": "2026-08-01",
+      "capturedAt": null,
+      "coordinates": null,
+      "alt": "Команды слушают инструктаж перед игрой на лесной базе",
+      "caption": "Перед стартом большой командной игры.",
+      "width": 2560,
+      "height": 1920,
+      "src": "./photos/photo-875-1600.webp",
+      "variants": {
+        "avif": [
+          {
+            "width": 480,
+            "src": "./photos/photo-875-480.avif"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-875-960.avif"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-875-1600.avif"
+          }
+        ],
+        "webp": [
+          {
+            "width": 480,
+            "src": "./photos/photo-875-480.webp"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-875-960.webp"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-875-1600.webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-885",
+      "dayId": "2026-08-01",
+      "capturedAt": null,
+      "coordinates": null,
+      "alt": "Ребята обсуждают тактику на размеченной лесной площадке",
+      "caption": "Тактика и взаимодействие во время зарницы.",
+      "width": 1920,
+      "height": 2560,
+      "src": "./photos/photo-885-1600.webp",
+      "variants": {
+        "avif": [
+          {
+            "width": 480,
+            "src": "./photos/photo-885-480.avif"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-885-960.avif"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-885-1600.avif"
+          }
+        ],
+        "webp": [
+          {
+            "width": 480,
+            "src": "./photos/photo-885-480.webp"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-885-960.webp"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-885-1600.webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-932",
+      "dayId": "2026-08-02",
+      "capturedAt": null,
+      "coordinates": null,
+      "alt": "Участники в спасательных жилетах сидят на катамаранах у берега Волги",
+      "caption": "Перед финальной тренировкой на воде.",
+      "width": 2560,
+      "height": 1920,
+      "src": "./photos/photo-932-1600.webp",
+      "variants": {
+        "avif": [
+          {
+            "width": 480,
+            "src": "./photos/photo-932-480.avif"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-932-960.avif"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-932-1600.avif"
+          }
+        ],
+        "webp": [
+          {
+            "width": 480,
+            "src": "./photos/photo-932-480.webp"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-932-960.webp"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-932-1600.webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-934",
+      "dayId": "2026-08-02",
+      "capturedAt": null,
+      "coordinates": null,
+      "alt": "Четыре катамарана с участниками стоят рядом на фоне Волги и зелёных холмов",
+      "caption": "Четыре экипажа снова вышли на Волгу.",
+      "width": 2560,
+      "height": 1920,
+      "src": "./photos/photo-934-1600.webp",
+      "variants": {
+        "avif": [
+          {
+            "width": 480,
+            "src": "./photos/photo-934-480.avif"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-934-960.avif"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-934-1600.avif"
+          }
+        ],
+        "webp": [
+          {
+            "width": 480,
+            "src": "./photos/photo-934-480.webp"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-934-960.webp"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-934-1600.webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-941",
+      "dayId": "2026-08-02",
+      "capturedAt": null,
+      "coordinates": null,
+      "alt": "Ребята готовят спасательные жилеты перед выходом на воду",
+      "caption": "Подготовка экипажей к тренировке.",
+      "width": 1920,
+      "height": 2560,
+      "src": "./photos/photo-941-1600.webp",
+      "variants": {
+        "avif": [
+          {
+            "width": 480,
+            "src": "./photos/photo-941-480.avif"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-941-960.avif"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-941-1600.avif"
+          }
+        ],
+        "webp": [
+          {
+            "width": 480,
+            "src": "./photos/photo-941-480.webp"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-941-960.webp"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-941-1600.webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-1018",
+      "dayId": "2026-08-03",
+      "capturedAt": null,
+      "coordinates": null,
+      "alt": "Группа с походными рюкзаками выходит с базы по лесной дороге",
+      "caption": "Начало самостоятельного походного этапа.",
+      "width": 2560,
+      "height": 1920,
+      "src": "./photos/photo-1018-1600.webp",
+      "variants": {
+        "avif": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1018-480.avif"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1018-960.avif"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1018-1600.avif"
+          }
+        ],
+        "webp": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1018-480.webp"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1018-960.webp"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1018-1600.webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-1039",
+      "dayId": "2026-08-03",
+      "capturedAt": null,
+      "coordinates": null,
+      "alt": "Походный котёл висит над костром на песчаном берегу Волги",
+      "caption": "Первый обед на костре.",
+      "width": 2560,
+      "height": 1920,
+      "src": "./photos/photo-1039-1600.webp",
+      "variants": {
+        "avif": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1039-480.avif"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1039-960.avif"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1039-1600.avif"
+          }
+        ],
+        "webp": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1039-480.webp"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1039-960.webp"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1039-1600.webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-1050",
+      "dayId": "2026-08-03",
+      "capturedAt": null,
+      "coordinates": null,
+      "alt": "Большой вечерний круг собрался на песчаном берегу Волги",
+      "caption": "Гитарный круг в первом походном лагере.",
+      "width": 2560,
+      "height": 1920,
+      "src": "./photos/photo-1050-1600.webp",
+      "variants": {
+        "avif": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1050-480.avif"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1050-960.avif"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1050-1600.avif"
+          }
+        ],
+        "webp": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1050-480.webp"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1050-960.webp"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1050-1600.webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-1069",
+      "dayId": "2026-08-04",
+      "capturedAt": null,
+      "coordinates": null,
+      "alt": "Ребята готовят походные блины на костре у Волги",
+      "caption": "Завтрак перед первым водным переходом.",
+      "width": 960,
+      "height": 1280,
+      "src": "./photos/photo-1069-960.webp",
+      "variants": {
+        "avif": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1069-480.avif"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1069-960.avif"
+          }
+        ],
+        "webp": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1069-480.webp"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1069-960.webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-1079",
+      "dayId": "2026-08-04",
+      "capturedAt": null,
+      "coordinates": null,
+      "alt": "Связка катамаранов с участниками идёт по Волге на фоне Жигулёвских гор",
+      "caption": "Первые километры по воде.",
+      "width": 964,
+      "height": 1280,
+      "src": "./photos/photo-1079-964.webp",
+      "variants": {
+        "avif": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1079-480.avif"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1079-960.avif"
+          },
+          {
+            "width": 964,
+            "src": "./photos/photo-1079-964.avif"
+          }
+        ],
+        "webp": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1079-480.webp"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1079-960.webp"
+          },
+          {
+            "width": 964,
+            "src": "./photos/photo-1079-964.webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-1082",
+      "dayId": "2026-08-04",
+      "capturedAt": null,
+      "coordinates": null,
+      "alt": "Катамараны с участниками подходят к песчаному берегу",
+      "caption": "Остановка во время водного перехода.",
+      "width": 960,
+      "height": 1280,
+      "src": "./photos/photo-1082-960.webp",
+      "variants": {
+        "avif": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1082-480.avif"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1082-960.avif"
+          }
+        ],
+        "webp": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1082-480.webp"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1082-960.webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-1165",
+      "dayId": "2026-08-05",
+      "capturedAt": null,
+      "coordinates": null,
+      "alt": "Связка загруженных катамаранов идёт по широкой Волге",
+      "caption": "Переход к острову Фестивальному.",
+      "width": 1920,
+      "height": 2560,
+      "src": "./photos/photo-1165-1600.webp",
+      "variants": {
+        "avif": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1165-480.avif"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1165-960.avif"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1165-1600.avif"
+          }
+        ],
+        "webp": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1165-480.webp"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1165-960.webp"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1165-1600.webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-1170",
+      "dayId": "2026-08-05",
+      "capturedAt": null,
+      "coordinates": null,
+      "alt": "Ребята разгружают катамараны на песчаном островном берегу",
+      "caption": "Прибытие на новую стоянку.",
+      "width": 2560,
+      "height": 1920,
+      "src": "./photos/photo-1170-1600.webp",
+      "variants": {
+        "avif": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1170-480.avif"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1170-960.avif"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1170-1600.avif"
+          }
+        ],
+        "webp": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1170-480.webp"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1170-960.webp"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1170-1600.webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-1195",
+      "dayId": "2026-08-05",
+      "capturedAt": null,
+      "coordinates": null,
+      "alt": "Участники сидят кругом у костра на берегу Волги",
+      "caption": "Вечерний круг в лагере на острове.",
+      "width": 2560,
+      "height": 1920,
+      "src": "./photos/photo-1195-1600.webp",
+      "variants": {
+        "avif": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1195-480.avif"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1195-960.avif"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1195-1600.avif"
+          }
+        ],
+        "webp": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1195-480.webp"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1195-960.webp"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1195-1600.webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-1297",
+      "dayId": "2026-08-06",
+      "capturedAt": null,
+      "coordinates": null,
+      "alt": "Загруженные походным снаряжением катамараны готовы к выходу с берега",
+      "caption": "Старт самого длинного водного перехода.",
+      "width": 1920,
+      "height": 2560,
+      "src": "./photos/photo-1297-1600.webp",
+      "variants": {
+        "avif": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1297-480.avif"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1297-960.avif"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1297-1600.avif"
+          }
+        ],
+        "webp": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1297-480.webp"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1297-960.webp"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1297-1600.webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-1298",
+      "dayId": "2026-08-06",
+      "capturedAt": null,
+      "coordinates": null,
+      "alt": "Экипаж катамарана идёт по Волге вдоль зелёного берега",
+      "caption": "Двенадцать километров по Волге.",
+      "width": 1920,
+      "height": 2560,
+      "src": "./photos/photo-1298-1600.webp",
+      "variants": {
+        "avif": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1298-480.avif"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1298-960.avif"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1298-1600.avif"
+          }
+        ],
+        "webp": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1298-480.webp"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1298-960.webp"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1298-1600.webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-1303",
+      "dayId": "2026-08-06",
+      "capturedAt": null,
+      "coordinates": null,
+      "alt": "Два катамарана соединены бортами во время перехода",
+      "caption": "Экипажи объединяют суда и сменяют гребцов.",
+      "width": 2560,
+      "height": 1920,
+      "src": "./photos/photo-1303-1600.webp",
+      "variants": {
+        "avif": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1303-480.avif"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1303-960.avif"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1303-1600.avif"
+          }
+        ],
+        "webp": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1303-480.webp"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1303-960.webp"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1303-1600.webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-1264",
+      "dayId": "2026-08-07",
+      "capturedAt": null,
+      "coordinates": null,
+      "alt": "Группа остановилась у деревянной постройки на маршруте к Каменной Чаше",
+      "caption": "Радиальный выход к Каменной Чаше.",
+      "width": 960,
+      "height": 1280,
+      "src": "./photos/photo-1264-960.webp",
+      "variants": {
+        "avif": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1264-480.avif"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1264-960.avif"
+          }
+        ],
+        "webp": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1264-480.webp"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1264-960.webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-1267",
+      "dayId": "2026-08-07",
+      "capturedAt": null,
+      "coordinates": null,
+      "alt": "Ребята с небольшими рюкзаками идут по полевой дороге среди Жигулёвских гор",
+      "caption": "Пеший маршрут в окрестностях Ширяева.",
+      "width": 1280,
+      "height": 960,
+      "src": "./photos/photo-1267-1280.webp",
+      "variants": {
+        "avif": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1267-480.avif"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1267-960.avif"
+          },
+          {
+            "width": 1280,
+            "src": "./photos/photo-1267-1280.avif"
+          }
+        ],
+        "webp": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1267-480.webp"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1267-960.webp"
+          },
+          {
+            "width": 1280,
+            "src": "./photos/photo-1267-1280.webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-1273",
+      "dayId": "2026-08-07",
+      "capturedAt": null,
+      "coordinates": null,
+      "alt": "Участники отдыхают у воды под большими деревьями",
+      "caption": "Остановка у источника.",
+      "width": 960,
+      "height": 1280,
+      "src": "./photos/photo-1273-960.webp",
+      "variants": {
+        "avif": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1273-480.avif"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1273-960.avif"
+          }
+        ],
+        "webp": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1273-480.webp"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1273-960.webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-1287",
+      "dayId": "2026-08-08",
+      "capturedAt": null,
+      "coordinates": null,
+      "alt": "Участники занимаются лагерными делами на песчаном берегу",
+      "caption": "Утро второй дневки.",
+      "width": 1920,
+      "height": 2560,
+      "src": "./photos/photo-1287-1600.webp",
+      "variants": {
+        "avif": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1287-480.avif"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1287-960.avif"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1287-1600.avif"
+          }
+        ],
+        "webp": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1287-480.webp"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1287-960.webp"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1287-1600.webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-1295",
+      "dayId": "2026-08-08",
+      "capturedAt": null,
+      "coordinates": null,
+      "alt": "Большая группа собралась кругом на берегу Волги",
+      "caption": "Общий круг после завершения сплава.",
+      "width": 2560,
+      "height": 1920,
+      "src": "./photos/photo-1295-1600.webp",
+      "variants": {
+        "avif": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1295-480.avif"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1295-960.avif"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1295-1600.avif"
+          }
+        ],
+        "webp": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1295-480.webp"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1295-960.webp"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1295-1600.webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-1463",
+      "dayId": "2026-08-08",
+      "capturedAt": null,
+      "coordinates": null,
+      "alt": "Ребят угощают свежей выпечкой за большим столом",
+      "caption": "Возвращение в знакомую пекарню Ширяева.",
+      "width": 1920,
+      "height": 2560,
+      "src": "./photos/photo-1463-1600.webp",
+      "variants": {
+        "avif": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1463-480.avif"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1463-960.avif"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1463-1600.avif"
+          }
+        ],
+        "webp": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1463-480.webp"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1463-960.webp"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1463-1600.webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-1480",
+      "dayId": "2026-08-09",
+      "capturedAt": null,
+      "coordinates": null,
+      "alt": "Группа с большими рюкзаками идёт по лесной тропе вдоль Волги",
+      "caption": "Пеший переход к Гавриловой Поляне.",
+      "width": 1920,
+      "height": 2560,
+      "src": "./photos/photo-1480-1600.webp",
+      "variants": {
+        "avif": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1480-480.avif"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1480-960.avif"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1480-1600.avif"
+          }
+        ],
+        "webp": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1480-480.webp"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1480-960.webp"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1480-1600.webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-1482",
+      "dayId": "2026-08-09",
+      "capturedAt": null,
+      "coordinates": null,
+      "alt": "Участники идут по берегу Волги под тяжёлыми дождевыми облаками",
+      "caption": "Непогода догоняет группу у новой стоянки.",
+      "width": 2560,
+      "height": 1920,
+      "src": "./photos/photo-1482-1600.webp",
+      "variants": {
+        "avif": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1482-480.avif"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1482-960.avif"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1482-1600.avif"
+          }
+        ],
+        "webp": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1482-480.webp"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1482-960.webp"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1482-1600.webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-1491",
+      "dayId": "2026-08-09",
+      "capturedAt": null,
+      "coordinates": null,
+      "alt": "Ребята в дождевиках устанавливают палатки на лесной поляне",
+      "caption": "Лагерь ставят под дождём.",
+      "width": 2560,
+      "height": 1920,
+      "src": "./photos/photo-1491-1600.webp",
+      "variants": {
+        "avif": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1491-480.avif"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1491-960.avif"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1491-1600.avif"
+          }
+        ],
+        "webp": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1491-480.webp"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1491-960.webp"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1491-1600.webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-1498",
+      "dayId": "2026-08-10",
+      "capturedAt": null,
+      "coordinates": null,
+      "alt": "Участники набирают питьевую воду в большие походные ёмкости",
+      "caption": "Команда самостоятельно пополняет запас воды.",
+      "width": 1920,
+      "height": 2560,
+      "src": "./photos/photo-1498-1600.webp",
+      "variants": {
+        "avif": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1498-480.avif"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1498-960.avif"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1498-1600.avif"
+          }
+        ],
+        "webp": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1498-480.webp"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1498-960.webp"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1498-1600.webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-1504",
+      "dayId": "2026-08-10",
+      "capturedAt": null,
+      "coordinates": null,
+      "alt": "Ребята занимаются лагерными делами рядом с костром и палатками",
+      "caption": "День самостоятельной работы в лагере.",
+      "width": 2560,
+      "height": 1920,
+      "src": "./photos/photo-1504-1600.webp",
+      "variants": {
+        "avif": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1504-480.avif"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1504-960.avif"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1504-1600.avif"
+          }
+        ],
+        "webp": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1504-480.webp"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1504-960.webp"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1504-1600.webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-1506",
+      "dayId": "2026-08-10",
+      "capturedAt": null,
+      "coordinates": null,
+      "alt": "Небольшой вечерний круг собрался между палатками",
+      "caption": "Итоги дня самоорганизации.",
+      "width": 2560,
+      "height": 1920,
+      "src": "./photos/photo-1506-1600.webp",
+      "variants": {
+        "avif": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1506-480.avif"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1506-960.avif"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1506-1600.avif"
+          }
+        ],
+        "webp": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1506-480.webp"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1506-960.webp"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1506-1600.webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-1512",
+      "dayId": "2026-08-11",
+      "capturedAt": null,
+      "coordinates": null,
+      "alt": "Группа с большими рюкзаками идёт по сельской дороге",
+      "caption": "Финальный двенадцатикилометровый переход.",
+      "width": 1920,
+      "height": 2560,
+      "src": "./photos/photo-1512-1600.webp",
+      "variants": {
+        "avif": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1512-480.avif"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1512-960.avif"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1512-1600.avif"
+          }
+        ],
+        "webp": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1512-480.webp"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1512-960.webp"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1512-1600.webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-1523",
+      "dayId": "2026-08-11",
+      "capturedAt": null,
+      "coordinates": null,
+      "alt": "Участники устанавливают палатки на зелёной поляне",
+      "caption": "Последний походный лагерь.",
+      "width": 2560,
+      "height": 1920,
+      "src": "./photos/photo-1523-1600.webp",
+      "variants": {
+        "avif": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1523-480.avif"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1523-960.avif"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1523-1600.avif"
+          }
+        ],
+        "webp": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1523-480.webp"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1523-960.webp"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1523-1600.webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-1525",
+      "dayId": "2026-08-11",
+      "capturedAt": null,
+      "coordinates": null,
+      "alt": "Ребята купаются у песчаного берега после длинного перехода",
+      "caption": "Отдых после дороги.",
+      "width": 2560,
+      "height": 1920,
+      "src": "./photos/photo-1525-1600.webp",
+      "variants": {
+        "avif": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1525-480.avif"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1525-960.avif"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1525-1600.avif"
+          }
+        ],
+        "webp": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1525-480.webp"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1525-960.webp"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1525-1600.webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-1577",
+      "dayId": "2026-08-12",
+      "capturedAt": null,
+      "coordinates": null,
+      "alt": "Группа с рюкзаками идёт по причалу к парому через Волгу",
+      "caption": "Переправа из Рождествена в Самару.",
+      "width": 2560,
+      "height": 1920,
+      "src": "./photos/photo-1577-1600.webp",
+      "variants": {
+        "avif": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1577-480.avif"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1577-960.avif"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1577-1600.avif"
+          }
+        ],
+        "webp": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1577-480.webp"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1577-960.webp"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1577-1600.webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-1558",
+      "dayId": "2026-08-12",
+      "capturedAt": null,
+      "coordinates": null,
+      "alt": "Ребята гуляют по зелёному городскому скверу Самары",
+      "caption": "Первый городской вечер после похода.",
+      "width": 2560,
+      "height": 1920,
+      "src": "./photos/photo-1558-1600.webp",
+      "variants": {
+        "avif": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1558-480.avif"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1558-960.avif"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1558-1600.avif"
+          }
+        ],
+        "webp": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1558-480.webp"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1558-960.webp"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1558-1600.webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-1562",
+      "dayId": "2026-08-12",
+      "capturedAt": null,
+      "coordinates": null,
+      "alt": "Группа идёт по набережной Самары вдоль Волги",
+      "caption": "Прогулка по самарской набережной.",
+      "width": 2560,
+      "height": 1920,
+      "src": "./photos/photo-1562-1600.webp",
+      "variants": {
+        "avif": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1562-480.avif"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1562-960.avif"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1562-1600.avif"
+          }
+        ],
+        "webp": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1562-480.webp"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1562-960.webp"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1562-1600.webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-1592",
+      "dayId": "2026-08-13",
+      "capturedAt": null,
+      "coordinates": null,
+      "alt": "Группа собралась кругом в сквере во время экскурсии по Самаре",
+      "caption": "Утренняя экскурсия по Самаре.",
+      "width": 2560,
+      "height": 1920,
+      "src": "./photos/photo-1592-1600.webp",
+      "variants": {
+        "avif": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1592-480.avif"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1592-960.avif"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1592-1600.avif"
+          }
+        ],
+        "webp": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1592-480.webp"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1592-960.webp"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1592-1600.webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-1624",
+      "dayId": "2026-08-13",
+      "capturedAt": null,
+      "coordinates": null,
+      "alt": "Участники фотографируются у городского памятника",
+      "caption": "Последняя остановка перед дорогой в Казань.",
+      "width": 2560,
+      "height": 1920,
+      "src": "./photos/photo-1624-1600.webp",
+      "variants": {
+        "avif": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1624-480.avif"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1624-960.avif"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1624-1600.avif"
+          }
+        ],
+        "webp": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1624-480.webp"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1624-960.webp"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1624-1600.webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-1643",
+      "dayId": "2026-08-13",
+      "capturedAt": null,
+      "coordinates": null,
+      "alt": "Из окна автобуса виден дорожный знак Татарстана",
+      "caption": "Вечерняя дорога в Татарстан.",
+      "width": 1920,
+      "height": 2560,
+      "src": "./photos/photo-1643-1600.webp",
+      "variants": {
+        "avif": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1643-480.avif"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1643-960.avif"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1643-1600.avif"
+          }
+        ],
+        "webp": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1643-480.webp"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1643-960.webp"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1643-1600.webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-1662",
+      "dayId": "2026-08-14",
+      "capturedAt": null,
+      "coordinates": null,
+      "alt": "Группа входит на территорию Казанского Кремля через белую башню",
+      "caption": "Начало экскурсии по Казанскому Кремлю.",
+      "width": 1920,
+      "height": 2560,
+      "src": "./photos/photo-1662-1600.webp",
+      "variants": {
+        "avif": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1662-480.avif"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1662-960.avif"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1662-1600.avif"
+          }
+        ],
+        "webp": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1662-480.webp"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1662-960.webp"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1662-1600.webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-1672",
+      "dayId": "2026-08-14",
+      "capturedAt": null,
+      "coordinates": null,
+      "alt": "Участники стоят перед мечетью Кул-Шариф",
+      "caption": "Знакомство с мечетью Кул-Шариф.",
+      "width": 1920,
+      "height": 2560,
+      "src": "./photos/photo-1672-1600.webp",
+      "variants": {
+        "avif": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1672-480.avif"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1672-960.avif"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1672-1600.avif"
+          }
+        ],
+        "webp": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1672-480.webp"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1672-960.webp"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1672-1600.webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-1743",
+      "dayId": "2026-08-14",
+      "capturedAt": null,
+      "coordinates": null,
+      "alt": "Команда сверяется с маршрутным листом во время городского квеста",
+      "caption": "Пятьдесят заданий на улицах Казани.",
+      "width": 1920,
+      "height": 2560,
+      "src": "./photos/photo-1743-1600.webp",
+      "variants": {
+        "avif": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1743-480.avif"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1743-960.avif"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1743-1600.avif"
+          }
+        ],
+        "webp": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1743-480.webp"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1743-960.webp"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1743-1600.webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-1896",
+      "dayId": "2026-08-15",
+      "capturedAt": null,
+      "coordinates": null,
+      "alt": "Команда общается с сотрудниками городского кафе во время квеста",
+      "caption": "Квест учит обращаться к незнакомым людям.",
+      "width": 1920,
+      "height": 2560,
+      "src": "./photos/photo-1896-1600.webp",
+      "variants": {
+        "avif": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1896-480.avif"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1896-960.avif"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1896-1600.avif"
+          }
+        ],
+        "webp": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1896-480.webp"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1896-960.webp"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1896-1600.webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-1899",
+      "dayId": "2026-08-15",
+      "capturedAt": null,
+      "coordinates": null,
+      "alt": "Ребята рассматривают объёмную карту центра Казани",
+      "caption": "Поиск новых точек в городе.",
+      "width": 2560,
+      "height": 1920,
+      "src": "./photos/photo-1899-1600.webp",
+      "variants": {
+        "avif": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1899-480.avif"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1899-960.avif"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1899-1600.avif"
+          }
+        ],
+        "webp": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1899-480.webp"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1899-960.webp"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1899-1600.webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-1901",
+      "dayId": "2026-08-15",
+      "capturedAt": null,
+      "coordinates": null,
+      "alt": "Участники собрались кругом в городском парке",
+      "caption": "Команды подводят итоги заданий.",
+      "width": 2560,
+      "height": 1920,
+      "src": "./photos/photo-1901-1600.webp",
+      "variants": {
+        "avif": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1901-480.avif"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1901-960.avif"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1901-1600.avif"
+          }
+        ],
+        "webp": [
+          {
+            "width": 480,
+            "src": "./photos/photo-1901-480.webp"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-1901-960.webp"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-1901-1600.webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-2002",
+      "dayId": "2026-08-16",
+      "capturedAt": null,
+      "coordinates": null,
+      "alt": "Участники беседуют с приглашённым спортсменом",
+      "caption": "Встреча о большом спорте и выборе профессии.",
+      "width": 2560,
+      "height": 1920,
+      "src": "./photos/photo-2002-1600.webp",
+      "variants": {
+        "avif": [
+          {
+            "width": 480,
+            "src": "./photos/photo-2002-480.avif"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-2002-960.avif"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-2002-1600.avif"
+          }
+        ],
+        "webp": [
+          {
+            "width": 480,
+            "src": "./photos/photo-2002-480.webp"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-2002-960.webp"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-2002-1600.webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-2046",
+      "dayId": "2026-08-16",
+      "capturedAt": null,
+      "coordinates": null,
+      "alt": "Гитарист выступает перед участниками в большом круге",
+      "caption": "Долгожданный гитарный вечер.",
+      "width": 2560,
+      "height": 1920,
+      "src": "./photos/photo-2046-1600.webp",
+      "variants": {
+        "avif": [
+          {
+            "width": 480,
+            "src": "./photos/photo-2046-480.avif"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-2046-960.avif"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-2046-1600.avif"
+          }
+        ],
+        "webp": [
+          {
+            "width": 480,
+            "src": "./photos/photo-2046-480.webp"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-2046-960.webp"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-2046-1600.webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "photo-2059",
+      "dayId": "2026-08-16",
+      "capturedAt": null,
+      "coordinates": null,
+      "alt": "Команда показывает собранный на городском квесте образ",
+      "caption": "Финал модного квеста.",
+      "width": 2560,
+      "height": 1920,
+      "src": "./photos/photo-2059-1600.webp",
+      "variants": {
+        "avif": [
+          {
+            "width": 480,
+            "src": "./photos/photo-2059-480.avif"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-2059-960.avif"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-2059-1600.avif"
+          }
+        ],
+        "webp": [
+          {
+            "width": 480,
+            "src": "./photos/photo-2059-480.webp"
+          },
+          {
+            "width": 960,
+            "src": "./photos/photo-2059-960.webp"
+          },
+          {
+            "width": 1600,
+            "src": "./photos/photo-2059-1600.webp"
+          }
+        ]
+      }
+    }
+  ]
 }

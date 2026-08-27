@@ -6,7 +6,7 @@
     "timezone": "Europe/Moscow"
   },
   "importedAt": "2026-08-27",
-  "messagesReviewed": 1740,
+  "messagesReviewed": 1714,
   "daysPublished": 20,
   "privacy": {
     "surnamesPublished": false,
@@ -15,9 +15,12 @@
     "transportDetailsPublished": false
   },
   "media": {
-    "photoCandidatesIdentified": 59,
+    "photoCandidatesIdentified": 1523,
+    "photosPublished": 57,
     "telegramLocationMetadataAvailable": false,
-    "exifAuditStatus": "waiting-for-file-export",
-    "downloadStatus": "waiting-for-file-export"
+    "photosWithExifGps": 0,
+    "photosWithExifDate": 0,
+    "exifAuditStatus": "complete-no-gps-found",
+    "downloadStatus": "imported-from-telegram-export"
   }
 }

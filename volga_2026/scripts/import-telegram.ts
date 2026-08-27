@@ -38,6 +38,7 @@ interface ExifData {
 }
 
 interface MediaOverride {
+  published?: boolean;
   dayId?: string;
   hidden?: boolean;
   order?: number;
@@ -221,7 +222,7 @@ async function main(): Promise<void> {
   const media: MediaAsset[] = [];
   for (const [id, inspected] of inspectedMedia) {
     const override = overrides[id] ?? {};
-    if (override.hidden) continue;
+    if (!override.published || override.hidden) continue;
     const defaultDayId = datePart(messages.find((message) => mediaId(message) === id)?.date ?? "");
     const dayId = override.dayId ?? defaultDayId;
     const variants = await makeVariants(inspected.absolutePath, id, inspected.draft.width, outputDirectory);
@@ -275,11 +276,22 @@ async function main(): Promise<void> {
     },
   };
   const manifest: MediaManifest = { generatedAt: audit.generatedAt, media };
+  const mediaByDay = new Map<string, string[]>();
+  for (const item of media) {
+    const ids = mediaByDay.get(item.dayId) ?? [];
+    ids.push(item.id);
+    mediaByDay.set(item.dayId, ids);
+  }
+  const daysWithMedia = publishedDays.map((day) => ({
+    ...day,
+    media: mediaByDay.get(day.id) ?? [],
+  }));
 
   await Promise.all([
     fs.writeFile(path.join(workDirectory, "editorial-draft.json"), `${JSON.stringify({ chat: payload.name ?? null, days: draft }, null, 2)}\n`),
     fs.writeFile(path.join(workDirectory, "location-audit.json"), `${JSON.stringify(audit, null, 2)}\n`),
     fs.writeFile(path.join(projectRoot, "public", "data", "media-manifest.json"), `${JSON.stringify(manifest, null, 2)}\n`),
+    fs.writeFile(path.join(projectRoot, "content", "days.json"), `${JSON.stringify(daysWithMedia, null, 2)}\n`),
   ]);
 
   console.log(`Чат: ${payload.name ?? "без названия"}`);
