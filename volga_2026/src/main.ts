@@ -85,6 +85,9 @@ async function start(): Promise<void> {
           <p>${escapeHtml(trip.subtitle)}</p>
           <time>${escapeHtml(trip.dates)}</time>
           ${trip.routeNote ? `<p class="story-header__note">${escapeHtml(trip.routeNote)}</p>` : ""}
+          <a class="telegram-link" href="https://t.me/travel_live4dev" target="_blank" rel="noopener noreferrer">
+            Читать канал в Telegram <span aria-hidden="true">↗</span>
+          </a>
         </header>
         ${days.length ? `
           <nav class="day-nav" aria-label="Дни путешествия">
